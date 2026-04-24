@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineering Student • Building the future, one model at a time 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=3rd+Year+CS+(AI+Specialization)+%40+MITS;Building+AEVI+-+My+Personal+AI+Assistant;Passionate+about+ML%2C+Computer+Vision+%26+LLMs;Dreaming+big+%F0%9F%8C%9F+Apple+AI%2FML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=3rd+Year+CS+(AI+Specialization)+%40+MITS;Building+AEVI+-+My+Personal+AI+Assistant;Passionate+about+ML%2C+Computer+Vision+%26+LLMs;Dreaming+big+%F0%9F%8C%9F+Apple+AI%2FML+Engineer" alt="Typing SVG" />
 </p>
 
 ---
