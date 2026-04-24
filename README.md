@@ -12,7 +12,7 @@
 - 🎓 3rd Year **Computer Science (AI Specialization)** student at **MITS, Kerala** (KTU)
 - 🤖 Currently building **AEVI** — a personal AI assistant with voice, Spotify, Calendar & smart home integration
 - 💡 Passionate about **Machine Learning**, **Computer Vision**, **LLMs**, and **Generative AI**
-- 🌍 Long-term goal: **AI/ML Engineer in a leading tech industry ** 
+- 🌍 Long-term goal: **AI/ML Engineer in a leading Tech Industry ** 
 - 📫 Reach me at: **avinash.d.menon@gmail.com**
 
 ---
