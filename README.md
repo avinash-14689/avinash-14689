@@ -12,8 +12,7 @@
 - 🎓 3rd Year **Computer Science (AI Specialization)** student at **MITS, Kerala** (KTU)
 - 🤖 Currently building **AEVI** — a personal AI assistant with voice, Spotify, Calendar & smart home integration
 - 💡 Passionate about **Machine Learning**, **Computer Vision**, **LLMs**, and **Generative AI**
-- 🏆 Competed in **The Big Code 2026** hackathon — solved 9/10 test cases
-- 🌍 Long-term goal: **Apple AI/ML Engineer** based in Seattle/Bellevue
+- 🌍 Long-term goal: **AI/ML Engineer in a leading tech industry ** 
 - 📫 Reach me at: **avinash.d.menon@gmail.com**
 
 ---
