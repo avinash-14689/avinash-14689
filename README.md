@@ -77,14 +77,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinash-14689&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-tau-virid-27.vercel.app/api?username=avinash-14689&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=avinash-14689&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-14689&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats-tau-virid-27.vercel.app/api/top-langs/?username=avinash-14689&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
