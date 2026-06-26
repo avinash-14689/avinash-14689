@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineering Student • Building the future, one model at a time 🤖</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=3rd+Year+CS+(AI+Specialization)+%40+MITS;Building+AEVI+-+My+Personal+AI+Assistant;Passionate+about+ML%2C+Computer+Vision+%26+LLMs;Dreaming+big+%F0%9F%8C%9F+Apple+AI%2FML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=3rd+Year+CS+(AI+Specialization)+%40+MITS;Building+AEVI+-+My+Personal+AI+Assistant;Passionate+about+ML%2C+Computer+Vision+%26+LLMs;Dreaming+big+%F0%9F%8C%9F+AI%2FML+Engineer+%40+Big+Tech" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 🎓 3rd Year **Computer Science (AI Specialization)** student at **MITS, Kerala** (KTU)
 - 🤖 Currently building **AEVI** — a personal AI assistant with voice, Spotify, Calendar & smart home integration
 - 💡 Passionate about **Machine Learning**, **Computer Vision**, **LLMs**, and **Generative AI**
-- 🌍 Long-term goal: **AI/ML Engineer in a leading Tech Industry ** 
+- 🌍 Long-term goal: **AI/ML Engineer at a leading Big Tech company**
 - 📫 Reach me at: **avinash.d.menon@gmail.com**
 
 ---
@@ -84,6 +84,7 @@
 <p align="center">
   <img src="https://github-readme-stats-tau-virid-27.vercel.app/api/top-langs/?username=avinash-14689&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me
