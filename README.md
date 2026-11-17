@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🎓 3rd Year **Computer Science (AI Specialization)** student at **MITS, Kerala** (KTU)
+- 🎓 4rth Year **Computer Science (AI Specialization)** student at **MITS, Kerala** (KTU)
 - 🤖 Currently building **AEVI** — a personal AI assistant with voice, Spotify, Calendar & smart home integration
 - 💡 Passionate about **Machine Learning**, **Computer Vision**, **LLMs**, and **Generative AI**
 - 🌍 Long-term goal: **AI/ML Engineer at a leading Big Tech company**
